@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "644400346657",
+    "firebase_url": "https://fir-test-671a6.firebaseio.com",
+    "project_id": "fir-test-671a6",
+    "storage_bucket": "fir-test-671a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644400346657:android:5c51ecca0d926cc1",
+        "android_client_info": {
+          "package_name": "com.example.sulistyarif.serverpulsapkm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644400346657-h4llcs1bagcefk2mv84r1qprjfivcjub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVw2tn13P6evxrpJmaBiK-vBFYYuXDshY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
